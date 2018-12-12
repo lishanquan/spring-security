@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+!.gitignore
+.**
+.idea/**
+out/**
+build/**
+**/out/
+**/build/
+
 # Log file
 *.log
 
